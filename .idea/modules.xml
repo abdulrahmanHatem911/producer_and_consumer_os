@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_1 RealWold/_1 RealWold.iml" filepath="$PROJECT_DIR$/_1 RealWold/_1 RealWold.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2 Producer_And_Consumer/_2 Producer_And_Consumer.iml" filepath="$PROJECT_DIR$/_2 Producer_And_Consumer/_2 Producer_And_Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3 DeadLock_problem/_3 DeadLock_problem.iml" filepath="$PROJECT_DIR$/_3 DeadLock_problem/_3 DeadLock_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4 Deadlock_Solve/_4 Deadlock_Solve.iml" filepath="$PROJECT_DIR$/_4 Deadlock_Solve/_4 Deadlock_Solve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_5 Starcition_Solve/_5 Starcition_Solve.iml" filepath="$PROJECT_DIR$/_5 Starcition_Solve/_5 Starcition_Solve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_6 Starvition_problem/_6 Starvition_problem.iml" filepath="$PROJECT_DIR$/_6 Starvition_problem/_6 Starvition_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producer_and_consumer_os.iml" filepath="$PROJECT_DIR$/producer_and_consumer_os.iml" />
+    </modules>
+  </component>
+</project>

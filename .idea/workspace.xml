@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="383cd338-91f6-404d-804d-710449fab7de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1 RealWold/_1 RealWold.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1 RealWold/src/AssemblyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1 RealWold/src/CartPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1 RealWold/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1 RealWold/src/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1 RealWold/src/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/_2 Producer_And_Consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/src/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/src/CarPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/src/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/src/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3 DeadLock_problem/_3 DeadLock_problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3 DeadLock_problem/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4 Deadlock_Solve/_4 Deadlock_Solve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4 Deadlock_Solve/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5 Starcition_Solve/_5 Starcition_Solve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5 Starcition_Solve/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6 Starvition_problem/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer_and_consumer_os.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2J6RpiicxDS40gYZwCJsusagT4o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="383cd338-91f6-404d-804d-710449fab7de" name="Changes" comment="" />
+      <created>1671396733837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671396733837</updated>
+      <workItem from="1671396735812" duration="522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
