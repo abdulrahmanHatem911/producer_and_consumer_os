@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383cd338-91f6-404d-804d-710449fab7de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1 RealWold/_1 RealWold.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1 RealWold/src/AssemblyLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1 RealWold/src/CartPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1 RealWold/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1 RealWold/src/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_1 RealWold/src/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/_2 Producer_And_Consumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/src/Buffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/src/CarPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/src/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2 Producer_And_Consumer/src/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_3 DeadLock_problem/_3 DeadLock_problem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_3 DeadLock_problem/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_4 Deadlock_Solve/_4 Deadlock_Solve.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_4 Deadlock_Solve/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_5 Starcition_Solve/_5 Starcition_Solve.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_5 Starcition_Solve/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_6 Starvition_problem/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer_and_consumer_os.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +35,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "E:/Projects/Java/bounded-buffer-problem",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671396733837</updated>
-      <workItem from="1671396735812" duration="522000" />
+      <workItem from="1671396735812" duration="2681000" />
+      <workItem from="1671399505312" duration="30000" />
     </task>
     <servers />
   </component>
